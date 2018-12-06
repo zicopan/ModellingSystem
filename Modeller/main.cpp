@@ -1,7 +1,7 @@
 /*
-3GC3 - Assignment 3
-Nico Stepan 001404582
-Joel Straatman 001314676
+Simple Modelling System
+Nico Stepan 
+Joel Straatman 
 
 The additional features added in the program are three textures.
 These three textures are accessible via '6', '7', and '8' keys.
