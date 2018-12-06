@@ -1508,9 +1508,7 @@ void commands()
 		<< "Left click to select object				  \n"
 		<< "Right click to delete object			  \n"
 		<< "------------------------------------------\n"
-		<< "------------------------------------------\n"
-		<< "----------Nico Stepan 001404582-----------\n"
-		<< "--------Joel Straatman 001314676----------\n";
+		<< "------------------------------------------\n";
 }
 
 /* main function - program entry point */
@@ -1522,7 +1520,7 @@ int main(int argc, char **argv)
 	glutInitWindowSize(800, 800);
 	glutInitWindowPosition(50, 50);
 
-	glutCreateWindow("3GC3 Assignment 3 - Simple Modeller"); //creates the window
+	glutCreateWindow("Simple Modeller"); //creates the window
 	commands();
 	callBackInit();
 
