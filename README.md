@@ -1,8 +1,6 @@
-# Simple Modelling System
+## OpenGL/GLUT and C++ Simple Modelling System
 
-## OpenGl/GLUT and C++ simple modeler repo
-
-This program uses ray picking to select objects and move them around on a plane. Said objects can be customized with textures and different kinds of materials. 
+This program uses ray casting to select objects and move them around on a plane. Said objects can be customized with textures and different kinds of materials. Ray casting can be learned about here: http://antongerdelan.net/opengl/raycasting.html
 
 ![ScreenShot](modellerPic.png)
 
